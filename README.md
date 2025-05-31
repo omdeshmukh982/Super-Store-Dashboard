@@ -29,3 +29,4 @@ Presented complex data in a clean, visually engaging format, enabling stakeholde
 📁 Skills Applied: Data visualization, business analysis, dashboard design, performance optimization
 
 SCREENSHOT/DEMOS
+https://github.com/omdeshmukh982/Super-Store-Dashboard/blob/main/Super_Store_Dashboard.png
